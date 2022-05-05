@@ -721,7 +721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FeatureTileApiUrlFormat: https://vectortile.googleapis.com/v1/featuretiles/@{0},{1},{2}z
   TerrainTileApiUrlFormat: https://vectortile.googleapis.com/v1/terraintiles/@{0},{1},{2}z
-  ApiKey: AIzaSyD8myi7Sk39S8zYnmLbSFd81On4wkwbb40
+  ApiKey: 
   NetworkPoolSize: 100
   NetworkTimeoutSeconds: 10
   EnableDiagnostics: 1
